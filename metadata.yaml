@@ -1,0 +1,40 @@
+_repo: Don-Winslow-of-the-Navy_45613
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Warren, F. (Ferdinand)
+    aliases:
+    - Warren, Frederik
+    - Warren, Ferdinand
+    - Warren, F. (Frederik)
+    - Warren, F. E. (Ferdinand E.)
+    gutenberg_agent_id: '43381'
+    url: http://www.gutenberg.org/2009/agents/43381
+covers:
+- cover_type: archival
+  image_path: 45613-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Martinek, Frank V. (Frank Victor)
+    alias: Martinek, Frank Victor
+    birthdate: 1895
+    gutenberg_agent_id: '43380'
+    url: http://www.gutenberg.org/2009/agents/43380
+description: ''
+gutenberg_issued: '2014-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45613'
+  lccn: '40007528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcsh 'Naval art and science -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+title: Don Winslow of the Navy
+url: http://www.gutenberg.org/ebooks/45613
